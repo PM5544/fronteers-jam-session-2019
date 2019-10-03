@@ -1,0 +1,22 @@
+{
+  "name": "fronteers-jam-session-2019",
+  "version": "1.0.0",
+  "description": "the webpage for the 2019 edition of the Fronteers conference Jam Session lightning talk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules ./server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PM5544/fronteers-jam-session-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PM5544/fronteers-jam-session-2019/issues"
+  },
+  "homepage": "https://github.com/PM5544/fronteers-jam-session-2019#readme",
+  "dependencies": {
+    "serve-handler": "^6.1.2"
+  }
+}
