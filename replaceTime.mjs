@@ -1,6 +1,6 @@
 const second = 1000;
 const minute = second * 60;
-const endTime = new Date(1570135200000);
+const endTime = new Date(1570138500000);
 
 const minutesReplacer = /{{minutes}}/gi;
 const secondsReplacer = /{{seconds}}/gi;
